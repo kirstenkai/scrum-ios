@@ -6,8 +6,28 @@
 	<dict>
 		<key>scrum-ios.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E2A946562908EF16002FD26D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E2A946662908EF19002FD26D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E2A946702908EF19002FD26D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
