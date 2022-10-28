@@ -34,6 +34,11 @@ struct DetailView: View {
                     .cornerRadius(4)
             }
             .accessibilityElement(children: .combine)
+            Spacer()
+            Section(header: Text("Attendees")){}
+            ForEach(scrum.attendees) { attendee in
+                Label(attendee.name, systemImage: "person")
+            }
         }
     }
     
