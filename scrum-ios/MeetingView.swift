@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  scrum-ios
-//
-//  Created by Kirsten Kai on 2022-10-26x.
-//
-
 import SwiftUI
 
 struct MeetingView: View {
